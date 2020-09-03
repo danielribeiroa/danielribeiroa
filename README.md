@@ -1,6 +1,6 @@
 
 
-### Welcome to my profile
+### Welcome to my portfolio
 ![pexels-lukas-574071](https://user-images.githubusercontent.com/63724035/92162679-eeb1cc00-ee08-11ea-9b0a-92b136162acd.jpg)
 
 #### Hello, my name is Daniel and i'm 21 years old. I started to get interested in programming about 9 months ago and have been studying ever since.
