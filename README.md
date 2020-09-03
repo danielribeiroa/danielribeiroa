@@ -7,7 +7,7 @@
 #### I study 8 to 12 hours a day. At the moment my main goal is to master the php language.
 #### I started studying English recently.
 #### I did and do some freelance work.
-#### I have an Micro Company called Hikikode with focus on freelance work.
+#### I have a Micro Company called Hikikode with focus on freelance work.
 #### Below, some things i like (out programming):
 
 - Math,
