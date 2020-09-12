@@ -9,7 +9,7 @@
 #### I did and do some freelance work.
 #### I have a Micro Company called Hikikode with focus on freelance work.
 
-### Some info about me:
+### More info about me:
 
 - I'm Brazilian and i live in Brazil,
 - I speak english a little bit,
