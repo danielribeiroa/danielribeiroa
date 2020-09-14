@@ -1,5 +1,4 @@
 #### Hello, my name is Daniel and i'm 21 years old.
-#### At the moment my main goal is to master the php language.
 #### I started studying English recently.
 #### I did and do some freelance work.
 #### I have a Micro Company called Hikikode with focus on freelance work.
