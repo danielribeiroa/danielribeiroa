@@ -1,5 +1,4 @@
-![github](https://user-images.githubusercontent.com/63724035/103182050-b0905a80-4886-11eb-9cf6-f68e38317aaf.png)
-
+![Colorful Business Data General Linkedin Banner](https://user-images.githubusercontent.com/63724035/103288903-b429fb80-49c4-11eb-8936-68e71793bdd4.png)
 ### Social medias
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/danielribeiroa)
 
